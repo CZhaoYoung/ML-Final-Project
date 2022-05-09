@@ -1,8 +1,11 @@
 # Final Project
 Handwritten Character Recognition Based on Multi-Layer Perception
+
 The source data is 300X300 npy image file as well as feature labels.
-Due to limit data storage of github, i don't push any training data and test data. U can just refer the code and replace it with your own data.
+Due to limit data storage of github, i don't push any training data and test data. You can just refer the code and replace it with your own data.
 If you need to run the training file, you can run the preprocess file first and then run training file. 
+
+[Refer]https://www.tensorflow.org/tutorials/keras/classification
 
 
 
